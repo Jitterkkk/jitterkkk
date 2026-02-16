@@ -109,12 +109,5 @@ Gosto de código limpo, organização e de entender o funcionamento do sistema c
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Jitterkkk&theme=tokyo-night"
-  />
-</p>
 
 
