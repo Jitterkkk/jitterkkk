@@ -1,100 +1,87 @@
-# 👨‍💻 Bernardo Biazus
+<h1 align="center">👨‍💻 Bernardo Biazus</h1>
+<h3 align="center">Front-End Developer & UI/UX Designer</h3>
 
-**`Desenvolvedor FullStack`**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Construindo+produtos+com+Next.js+%2B+Supabase;Design+%E2%86%92+C%C3%B3digo+%E2%86%92+Deploy;Dev+assistido+por+IA+no+dia+a+dia" alt="Typing SVG" />
+</p>
 
-Me chamo Bernardo Biazus, tenho 20 anos e estou na área da técnologia desde criança! Sou **Desenvolvedor FullStack**, com foco em construir aplicações web completas, do front-end ao back-end.  
-Tenho experiência no desenvolvimento de aplicações web utilizando HTML, CSS e JavaScript, atuando tanto no front-end quanto na lógica de negócio, com controle de versionamento via Git/GitHub, organização de código seguindo boas práticas e estruturação de projetos baseada em conceitos como POO, MVC e separação de responsabilidades.
+---
 
-Gosto de código limpo, organização e de entender o funcionamento do sistema como um todo até a parte da infraestrutura.
+### 🚀 Sobre mim
 
-### 🤖 Linguagens e Tecnologias
+Sou **FullStack Developer e UI/UX Designer**, atuando remoto na **Menezzo Studio (EUA)**, onde trabalho no design e desenvolvimento de produtos digitais — do protótipo no Figma até o código em produção.
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+Fora do trabalho, construo meus próprios produtos: atualmente desenvolvo o **SaaS Barber**, uma plataforma multi-tenant de gestão para barbearias, e já publiquei outros projetos autônomos como o **promo-agent**, um bot de afiliados com IA.
 
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+Gosto de código limpo, arquitetura bem pensada (multi-tenancy, RLS, autenticação) e de integrar IA no fluxo de desenvolvimento — uso **Claude Code** como parte real do meu processo de trabalho, não só como curiosidade.
 
+- 🎨 Design (Figma) → Front-end (Next.js/React) → Deploy (Vercel)
+- 🏗️ Curto entender o sistema como um todo, do UI até a infraestrutura
+- 📚 Cursando ADS (UNICESUMAR) | Tecnólogo SENAI-RS
+- 🤖 Fluxo de dev com IA: prompt engineering aplicado no dia a dia
 
+---
 
-<br/>
-<br/>
+### 🛠️ Stack & Ferramentas
 
+<p align="left">
+<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" title="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Tailwind" title="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<br/><br/>
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Supabase" title="Supabase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Figma" title="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Vercel" title="Vercel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
+<br/><br/>
+</p>
 
+---
 
+### 🔥 Projetos em destaque
+
+<table>
+<tr>
+<td width="50%">
+  <h4>🪒 SaaS Barber</h4>
+  <p>Plataforma multi-tenant de gestão e agendamento para barbearias. Next.js + Supabase (RLS) + integração nativa com WhatsApp (Evolution API).</p>
+  <a href="https://github.com/Jitterkkk/saas-barber">🔗 Ver repositório</a>
+</td>
+<td width="50%">
+  <h4>🤖 Promo Agent</h4>
+  <p>Bot autônomo de promoções afiliadas: scraping, geração de copy e imagens com IA, distribuição automática via WhatsApp/Telegram.</p>
+  <a href="https://github.com/Jitterkkk/promo-agent">🔗 Ver repositório</a>
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jitterkkk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitterkkk&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jitterkkk&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📫 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="28" /></a>
+  &nbsp;
+  <a href="mailto:SEU-EMAIL-AQUI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gmail/gmail-original.svg" width="28" /></a>
+</p>
+
+<p align="center"><i>Design bem feito + código bem estruturado = produto que funciona.</i></p>
