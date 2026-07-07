@@ -1,17 +1,17 @@
 <h1 align="center">👨‍💻 Bernardo Biazus</h1>
-<h3 align="center">Front-End Developer & UI/UX Designer</h3>
+<h3 align="center">Full Stack Developer & UI/UX Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Construindo+produtos+com+Next.js+%2B+Supabase;Design+%E2%86%92+C%C3%B3digo+%E2%86%92+Deploy;Dev+assistido+por+IA+no+dia+a+dia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&separator=%7C&lines=Construindo+produtos+com+Next.js+e+Supabase|Design+-%3E+Codigo+-%3E+Deploy|Dev+assistido+por+IA+no+dia+a+dia" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-Sou **FullStack Developer e UI/UX Designer**, atuando remoto na **Menezzo Studio (EUA)**, onde trabalho no design e desenvolvimento de produtos digitais — do protótipo no Figma até o código em produção.
+Sou **Desenvolvedor Full Stack e UI/UX Designer**, atuando do protótipo no Figma até o código em produção — front-end, back-end e infraestrutura.
 
-Fora do trabalho, construo meus próprios produtos: atualmente desenvolvo o **SaaS Barber**, uma plataforma multi-tenant de gestão para barbearias, e já publiquei outros projetos autônomos como o **promo-agent**, um bot de afiliados com IA.
+Construo meus próprios produtos: atualmente desenvolvo o **SaaS Barber**, uma plataforma multi-tenant de gestão para barbearias, e o **Handoff**, um plugin de Figma que automatiza o handoff de design para desenvolvimento (snapshots, diffs e publicação de dashboard). Já publiquei também o **promo-agent**, um bot de afiliados com IA.
 
 Gosto de código limpo, arquitetura bem pensada (multi-tenancy, RLS, autenticação) e de integrar IA no fluxo de desenvolvimento — uso **Claude Code** como parte real do meu processo de trabalho, não só como curiosidade.
 
@@ -48,12 +48,17 @@ Gosto de código limpo, arquitetura bem pensada (multi-tenancy, RLS, autenticaç
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
   <h4>🪒 SaaS Barber</h4>
   <p>Plataforma multi-tenant de gestão e agendamento para barbearias. Next.js + Supabase (RLS) + integração nativa com WhatsApp (Evolution API).</p>
   <a href="https://github.com/Jitterkkk/saas-barber">🔗 Ver repositório</a>
 </td>
-<td width="50%">
+<td width="33%">
+  <h4>🔄 Handoff</h4>
+  <p>Plugin de Figma que automatiza o handoff de design para desenvolvimento: snapshots, diffs visuais e publicação de dashboard.</p>
+  <i>Projeto privado</i>
+</td>
+<td width="33%">
   <h4>🤖 Promo Agent</h4>
   <p>Bot autônomo de promoções afiliadas: scraping, geração de copy e imagens com IA, distribuição automática via WhatsApp/Telegram.</p>
   <a href="https://github.com/Jitterkkk/promo-agent">🔗 Ver repositório</a>
